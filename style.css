@@ -2,6 +2,12 @@ body {
     color: black;
     background-color: burlywood;
  }
+ div {
+    width: 300px;
+    border: 30px solid black;
+    padding: 50px;
+    margin: 200px;
+ }
  .center {
     text-align: center;
 }
