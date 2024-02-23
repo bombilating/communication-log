@@ -1,0 +1,13 @@
+body {
+    color: black;
+    background-color: burlywood;
+ }
+ .center {
+    text-align: center;
+}
+#cool-text {
+    color: blue;
+}
+#list-color {
+    color: blueviolet;
+}
